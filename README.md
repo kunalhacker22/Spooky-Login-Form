@@ -34,7 +34,7 @@ A unique and engaging login form featuring an animated SVG ghost that dynamicall
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/kunalhacker22/Spooky-Login-Form.git]
     ```
 2.  **Open the File:**
     Open the `index.html` file directly in your web browser.
